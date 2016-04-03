@@ -1,0 +1,6 @@
+{
+	"access_token": "7qiEkb9A8Dr3Wgter6qTU8R66F3hIl",
+	"token_type": "Bearer",
+	"expires_in": 176400,
+	"scope": "api_access_write api_access api_access_read"
+}
